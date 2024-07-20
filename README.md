@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielPymentel
 - 👀 I’m interested in develope Web Sites
-- 🌱 I’m currently learning Python and HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, C++ and Java to Programming logic
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
