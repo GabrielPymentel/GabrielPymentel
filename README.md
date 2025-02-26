@@ -38,15 +38,15 @@
 ## 🏆 Programação Competitiva  
 
 ### 🔹 Codeforces  
-- **Rating atual:** 678  
+- **Rating atual:** 729 
 - **Rating máximo:** 886  
-- **Problemas resolvidos:** 150+  
+- **Problemas resolvidos:** 160+  
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
 
 ### 🔹 Beecrowd  
 - **Ranking no Brasil:** Top 500  
 - **Posição no IFAM:** 3º  
-- **Problemas resolvidos:** 440+  
+- **Problemas resolvidos:** 450+  
 - [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/968534)  
 
 ---
