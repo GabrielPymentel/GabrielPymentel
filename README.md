@@ -44,9 +44,9 @@
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
 
 ### 🔹 Beecrowd  
-- **Ranking no Brasil:** Top 500  
+- **Ranking no Brasil:** Top 400  
 - **Posição no IFAM:** 3º  
-- **Problemas resolvidos:** 470+  
+- **Problemas resolvidos:** 500+  
 - [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/968534)  
 
 ---
