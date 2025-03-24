@@ -40,12 +40,12 @@
 ### 🔹 Codeforces  
 - **Rating atual:** 797 
 - **Rating máximo:** 886  
-- **Problemas resolvidos:** 210+  
+- **Problemas resolvidos:** 220+  
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
 
 ### 🔹 Beecrowd  
 - **Ranking no Brasil:** Top 400  
-- **Posição no IFAM:** 3º  
+- **Posição no IFAM:** 2º  
 - **Problemas resolvidos:** 530+  
 - [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/968534)  
 
