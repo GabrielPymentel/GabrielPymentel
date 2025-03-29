@@ -38,7 +38,7 @@
 ## 🏆 Programação Competitiva  
 
 ### 🔹 Codeforces  
-- **Rating atual:** 924
+- **Rating atual:** 833
 - **Rating máximo:** 924  
 - **Problemas resolvidos:** 230+  
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
