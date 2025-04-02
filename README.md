@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gabriel Pimentel! 🐧  
 ### 🚀 Futuro grande programador | Programação Competitiva | Desenvolvimento Web | IoT | Computação
 
-💻 Apaixonado por resolver problemas desafiadores e construir soluções inovadoras. Atualmente, foco em **programação competitiva**, **desenvolvimento web** e **IoT**. Busco constantemente melhorar minhas habilidades e compartilhar conhecimento.  
+💻 Apaixonado por resolver problemas desafiadores e construir soluções inovadoras. Atualmente, foco em **programação competitiva**, **desenvolvimento web** e **IoT**. Busco constantemente melhorar minhas habilidades e compartilhar conhecimento. Também busco ser, futuramente, um grande professor da área de T.I. 
 
 ---
 
