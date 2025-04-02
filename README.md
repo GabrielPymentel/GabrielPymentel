@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Gabriel Pimentel! 🐧  
-### 🚀 Futuro grande programador | Programação Competitiva | Desenvolvimento Web | IoT  
+### 🚀 Futuro grande programador | Programação Competitiva | Desenvolvimento Web | IoT | Computação
 
 💻 Apaixonado por resolver problemas desafiadores e construir soluções inovadoras. Atualmente, foco em **programação competitiva**, **desenvolvimento web** e **IoT**. Busco constantemente melhorar minhas habilidades e compartilhar conhecimento.  
 
@@ -38,7 +38,7 @@
 ## 🏆 Programação Competitiva  
 
 ### 🔹 Codeforces  
-- **Rating atual:** 833
+- **Rating atual:** 838
 - **Rating máximo:** 929
 - **Problemas resolvidos:** 240+  
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
