@@ -39,7 +39,7 @@
 
 ### 🔹 Codeforces  
 - **Rating atual:** 833
-- **Rating máximo:** 924  
+- **Rating máximo:** 929
 - **Problemas resolvidos:** 240+  
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
 
