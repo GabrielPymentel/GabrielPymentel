@@ -40,7 +40,7 @@
 ### 🔹 Codeforces  
 - **Rating atual:** 905
 - **Rating máximo:** 929
-- **Problemas resolvidos:** 250+  
+- **Problemas resolvidos:** 260+  
 - [Meu perfil no Codeforces](https://codeforces.com/profile/GAB-DivideEConserta)  
 
 ### 🔹 Beecrowd  
