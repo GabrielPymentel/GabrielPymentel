@@ -46,7 +46,7 @@
 ### 🔹 Beecrowd  
 - **Ranking no Brasil:** Top 400  
 - **Posição no IFAM:** 2º  
-- **Problemas resolvidos:** 540+  
+- **Problemas resolvidos:** 550+  
 - [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/968534)  
 
 ---
