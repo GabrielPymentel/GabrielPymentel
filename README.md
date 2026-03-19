@@ -34,4 +34,4 @@ I am currently refining my skills in **React** and deepening my understanding of
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](YOUR_LINK_HERE) | [Email](mailto:your.email@example.com)
+[LinkedIn](in/gabriel-pimentel-613302340) | [Email](mailto:gabrielsilva69057@gmail.com)
