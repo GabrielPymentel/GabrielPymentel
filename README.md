@@ -4,7 +4,7 @@
 ---
 
 ### 🟢 About Me
-I am a 19-year-old Computing student currently completing my technical degree at **IFAM (Federal Institute of Amazonas)**. I view software development as a continuous journey of problem-solving and technical refinement. 
+I am a 18-year-old Computing student currently completing my technical degree at **IFAM (Federal Institute of Amazonas)**. I view software development as a continuous journey of problem-solving and technical refinement. 
 
 This GitHub profile serves as a living documentation of my evolution—from fundamental logic exercises to more complex full-stack applications. I value transparency in my learning process, showcasing not just the final results, but the iterations and challenges along the way.
 
